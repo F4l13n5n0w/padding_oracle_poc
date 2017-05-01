@@ -18,9 +18,9 @@ In this case, the plaintext is `user=admin`, the result as follow:ls
 
 
 ## Reference
-[1] PentesterLab CTF Badge exercise: [Padding Oracle][1]
-[2] OWASP Testing guide: [OTG-CRYPST-002][3]
-[3] Testing tool: [PadBuster][2]
+* PentesterLab CTF Badge exercise: [Padding Oracle][1]
+* OWASP Testing guide: [OTG-CRYPST-002][3]
+* Testing tool: [PadBuster][2]
 
 
 
